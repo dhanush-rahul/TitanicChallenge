@@ -14,4 +14,7 @@ xgboost
 
 How to run: 
 
->> python titanic_kaggle.py
+python titanic_kaggle.py
+
+
+Final global ranking: 473 
